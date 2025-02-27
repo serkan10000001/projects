@@ -1,2 +1,3 @@
-# projects
-PROJECTS THAT I DID IN MY UNIVERSITY LIFE 
+#Projects
+1 - Electronics stethoscope 
+2 - Uneven Seven Sided Dice Roller
